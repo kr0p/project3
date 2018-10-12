@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\kropotkin\eclipse-workspace\project3\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1023576977.index
+3039414245.index
+4179419768.index
+4288375536.index
+693051294.index
+887868471.index
